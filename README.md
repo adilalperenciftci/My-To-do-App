@@ -25,7 +25,7 @@ Bu projeyi yerel olarak çalıştırmak için aşağıdaki adımları izleyin:
 1. Repoyu klonlayın:
 
    ```bash
-   git clone https://github.com/[kullanıcı-adınız]/todomatic.git
+   git clone https://github.com/adilalperenciftci/todomatic.git
    cd todomatic
    ```
 
